@@ -6,7 +6,7 @@ Authors
 ================
 F. Sanfilippo, H. Zhang
 
-Acknowledgement
+Acknowledgements
 ================
 The authors gratefully acknowledge the contribution of the students Stian Sandviknes, Ole Jonny Varhaugvik and Andreas Bull Enger in the realisation and implementation of this work.
 
