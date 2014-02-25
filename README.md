@@ -18,4 +18,4 @@ It is the authors intend this work to be an open platform for the open-source re
 
 Demo Video
 ================
-http://youtu.be/PUkIn7tO6Ps
+http://youtu.be/aWbhjkIwMfI
