@@ -4,7 +4,11 @@ An Open-Source Rapid-Prototyping Framework for Designing Low-Cost Sensorised Mod
 
 Authors
 ================
-F. Sanfilippo, H. Zhang
+F. Sanfilippo
+
+References
+================
+Filippo Sanfilippo, Houxiang Zhang, Kristin Ytterstad Pettersen, Gionata Salvietti and Domenico Prattichizzo. ModGrasp: an Open-Source Rapid-Prototyping Framework for Designing Low-Cost Sensorised Modular Hands. In Proceeding of the 5th IEEE RAS & EMBS International Conference on Biomedical Robotics and Biomechatronics (BioRob), São Paulo, Brazil. 2014, 951–957.
 
 Acknowledgements
 ================
